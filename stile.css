@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    font-family: 'Yomogi', sans-serif;
+    position: absolute;
+    background-color:rosybrown;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 1%; 
+     
+}
+
+/*HEADER*/
+
+.container-img{
+    margin-left: 500px;
+    margin-top: 2px;
+    right: 0;
+    left: 1;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    font-size: 20px;  
+}
+
+.titulo{
+    font-size: 40px;
+}
+
+.subtitulo{
+    display: inline;
+}
+  
+
+/*BUTTON*/
+
+.btn1{
+    background-color:pink;
+    width: 696px;
+    height: 58px;
+    font-size: 20px;   
+    margin-left: 500px;
+    margin-top: 50px;
+    font-family: 'Yomogi', sans-serif;
+    border: pink;
+    
+}
+
+.btn2{
+    background-color:pink;
+    width: 696px;
+    height: 58px;
+    font-size: 20px;   
+    margin-left: 500px;
+    margin-top: 50px;
+    font-family: 'Yomogi', sans-serif;
+    border: pink;
+
+}
+.btn3{
+    background-color:pink;
+    width: 696px;
+    height: 58px;
+    font-size: 20px;   
+    margin-left: 500px;
+    margin-top: 50px;
+    font-family: 'Yomogi', sans-serif;
+    border: pink;
+}
+
+.video{
+    margin-left: 570px;
+    margin-top: 50px;
+}
+
+.coracao{
+    margin-left: 300px ;
+}
+
